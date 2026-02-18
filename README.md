@@ -1,4 +1,5 @@
 # SoarSeek
+![Logo](logo.jpg)
 
 ## 项目简介
 
